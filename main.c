@@ -11,6 +11,7 @@ int main(void)
 {
     
     printf("Hello, World!\n");
+    printf("My nane is Kevin.\n");
     printf("This is my First real attempt at coding.\n");
     printf("That is, if one doesn't include the acomplishmets I did at Code.Org.\n");
    printf("Simple, but beginner's stuff that I tried out.\n");
